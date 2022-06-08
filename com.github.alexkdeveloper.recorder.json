@@ -31,8 +31,8 @@
             {
                  "type" : "git",
                  "url" : "https://github.com/alexkdeveloper/recorder.git",
-                 "tag": "1.0.2",
-                 "commit": "6d989d48e2b69eef9f03261a61509eb36cd21220"
+                 "tag": "1.0.3",
+                 "commit": "75bc1c67eb6624b65deddb1c21cea81d52c0c472"
             }
         ]
       }
