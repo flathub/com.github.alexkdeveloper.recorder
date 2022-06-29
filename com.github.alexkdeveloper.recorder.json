@@ -29,10 +29,10 @@
         "buildsystem": "meson",
         "sources": [
             {
-                 "type" : "git",
-                 "url" : "https://github.com/alexkdeveloper/recorder.git",
-                 "tag": "1.0.3",
-                 "commit": "75bc1c67eb6624b65deddb1c21cea81d52c0c472"
+                 "type": "git",
+                 "url": "https://github.com/alexkdeveloper/recorder.git",
+                 "tag": "1.0.4",
+                 "commit": "4e6e73ddde78b05c590fe0e67b6d1083c0f9be0f"
             }
         ]
       }
