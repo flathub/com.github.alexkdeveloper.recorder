@@ -1,7 +1,7 @@
 {
   "app-id": "com.github.alexkdeveloper.recorder",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "43",
+  "runtime-version": "44",
   "sdk": "org.gnome.Sdk",
   "command": "com.github.alexkdeveloper.recorder",
   "finish-args": [
@@ -31,8 +31,7 @@
             {
                  "type": "git",
                  "url": "https://github.com/alexkdeveloper/recorder.git",
-                 "tag": "1.0.11",
-                 "commit": "a76686dba3afd31c7bf203341b2508cebf1c8b6e"
+                 "tag": "1.0.12"
             }
         ]
       }
